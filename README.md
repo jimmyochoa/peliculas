@@ -25,15 +25,17 @@ Para comenzar a utilizar el CRUD de películas, sigue estos pasos:
 Aquí hay algunas capturas de pantalla que muestran cómo se ve el CRUD de películas en acción:
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/jimmyochoa/peliculas/main/1.png" alt="Captura de Pantalla 1" width="300">
-    <img src="https://raw.githubusercontent.com/jimmyochoa/peliculas/main/2.png" alt="Captura de Pantalla 2" width="300">
+    <img src="https://raw.githubusercontent.com/jimmyochoa/peliculas/main/1.png" alt="Captura de Pantalla 1" width="650">
 </div>
-
 <div align="center">
-    <img src="https://raw.githubusercontent.com/jimmyochoa/peliculas/main/3.png" alt="Captura de Pantalla 3" width="300">
-    <img src="https://raw.githubusercontent.com/jimmyochoa/peliculas/main/4.png" alt="Captura de Pantalla 4" width="300">
+    <img src="https://raw.githubusercontent.com/jimmyochoa/peliculas/main/2.png" alt="Captura de Pantalla 2" width="650">
 </div>
-
+<div align="center">
+    <img src="https://raw.githubusercontent.com/jimmyochoa/peliculas/main/3.png" alt="Captura de Pantalla 3" width="650">
+</div>
+<div align="center">
+    <img src="https://raw.githubusercontent.com/jimmyochoa/peliculas/main/4.png" alt="Captura de Pantalla 4" width="650">
+</div>
 ## Contribución
 
 Si deseas contribuir a este proyecto, ¡siéntete libre de hacerlo! Puedes enviar sugerencias, correcciones de errores o nuevas características a través de solicitudes de extracción.
