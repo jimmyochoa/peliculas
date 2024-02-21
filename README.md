@@ -36,6 +36,7 @@ Aquí hay algunas capturas de pantalla que muestran cómo se ve el CRUD de pelí
 <div align="center">
     <img src="https://raw.githubusercontent.com/jimmyochoa/peliculas/main/4.png" alt="Captura de Pantalla 4" width="650">
 </div>
+
 ## Contribución
 
 Si deseas contribuir a este proyecto, ¡siéntete libre de hacerlo! Puedes enviar sugerencias, correcciones de errores o nuevas características a través de solicitudes de extracción.
