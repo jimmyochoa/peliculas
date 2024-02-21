@@ -2,6 +2,17 @@
 
 Este proyecto es un CRUD (Crear, Leer, Actualizar y Eliminar) básico desarrollado en Laravel para administrar una lista de películas. Proporciona una interfaz simple y fácil de usar para agregar, ver, editar y eliminar películas de una base de datos.
 
+## Instalación
+
+Para comenzar a utilizar el CRUD de películas, sigue estos pasos:
+
+1. **Clonar el Repositorio:** Clona o descarga este repositorio en tu máquina local.
+2. **Configurar el archivo .env:** Configura el archivo `.env` con los detalles de tu base de datos local.
+3. **Migraciones de la Base de Datos:** Ejecuta las migraciones de Laravel para crear las tablas necesarias en la base de datos.
+4. **Iniciar el Servidor:** Utiliza el comando `php artisan serve` para iniciar el servidor de desarrollo.
+5. **Acceder a la Aplicación:** Abre tu navegador web y accede a la URL proporcionada por el servidor de Laravel.
+6. **¡Disfrutar!:** Ahora puedes comenzar a administrar tu lista de películas.
+
 ## Características
 
 - **Crear:** Agrega nuevas películas a la lista con información como título, año de lanzamiento, director y sinopsis.
@@ -13,17 +24,15 @@ Este proyecto es un CRUD (Crear, Leer, Actualizar y Eliminar) básico desarrolla
 
 Aquí hay algunas capturas de pantalla que muestran cómo se ve el CRUD de películas en acción:
 
-![Captura de pantalla 1](/screenshots/screenshot1.png)
-![Captura de pantalla 2](/screenshots/screenshot2.png)
-![Captura de pantalla 3](/screenshots/screenshot3.png)
+<div align="center">
+    <img src="https://raw.githubusercontent.com/jimmyochoa/peliculas/main/1.png" alt="Captura de Pantalla 1" width="300">
+    <img src="https://raw.githubusercontent.com/jimmyochoa/peliculas/main/2.png" alt="Captura de Pantalla 2" width="300">
+</div>
 
-## Instalación y Uso
-
-1. Clona o descarga este repositorio en tu máquina local.
-2. Configura el entorno de Laravel y la base de datos según sea necesario.
-3. Ejecuta las migraciones para crear las tablas de la base de datos.
-4. Inicia el servidor y accede a la aplicación en tu navegador web.
-5. ¡Comienza a administrar tu lista de películas!
+<div align="center">
+    <img src="https://raw.githubusercontent.com/jimmyochoa/peliculas/main/3.png" alt="Captura de Pantalla 3" width="300">
+    <img src="https://raw.githubusercontent.com/jimmyochoa/peliculas/main/4.png" alt="Captura de Pantalla 4" width="300">
+</div>
 
 ## Contribución
 
